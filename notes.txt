@@ -24,4 +24,44 @@
   big_int.js
 
 - date
-  date.js            
+  date.js
+  unix_timestamp.js
+  parse_date.js
+  date_getter_setter.js
+
+- math
+  math.js
+
+- boolean
+  boolean.js
+
+- map
+  map.js
+
+- set 
+  set.js
+
+- symbol
+  symbol.js
+  symbol_for.js
+
+- regexp
+  regexp.js
+
+- proxy
+  proxy.js
+
+- reflect
+  reflect.js
+
+- encode decode
+  encode.js
+  encode_uri_component.js
+
+- base64
+  base64.js
+
+- eval
+  eval.js
+
+done                                  
